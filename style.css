@@ -1,0 +1,37 @@
+*{
+    background-color: whitesmoke
+}
+
+
+#boxOne{
+    border: 3px solid black;
+    }
+
+
+#bLoody { 
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-style:italic;
+    
+    color:black;
+    background-color:white;
+    border:3px solid lime;
+
+    margin:10px, 2px;
+    padding: 4px;
+    float: left;
+    width: 23%;
+
+    text-align: center;
+     }
+
+.responsive{
+    width:100%;
+    height:auto;
+}
+
+#topnav{
+    text-align: center;
+    font-size: 20px;
+}
